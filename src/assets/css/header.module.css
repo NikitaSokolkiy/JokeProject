@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    height: auto;
+    background: blueviolet;
+    color: white;
+    font-size: 1rem;
+}
+.header_wrapper{
+    margin: auto;
+    max-width: 1200px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+}

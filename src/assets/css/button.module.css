@@ -1,0 +1,8 @@
+.main_button{
+    padding: 30px;
+    font-size: 25px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
